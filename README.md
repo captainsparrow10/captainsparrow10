@@ -2,8 +2,6 @@
 
 **Software Developer** · Panama City, Panama
 
----
-
 ## About me
 
 I build e-commerce platforms end to end: mobile apps, web storefronts and the APIs behind them.
