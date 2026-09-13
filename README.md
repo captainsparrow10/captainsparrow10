@@ -110,5 +110,5 @@ Integrated the payment methods used at checkout:
 
 ## Contact
 
-- **More information:** [LinkedIn](www.linkedin.com/in/javier-acosta-tullock-16986930a)
+- **More information:** [LinkedIn](https://www.linkedin.com/in/javier-acosta-tullock-16986930a/)
 - **Get in touch:** [javieracostatullock@gmail.com](mailto:javieracostatullock@gmail.com)
